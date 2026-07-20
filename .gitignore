@@ -1,0 +1,7 @@
+data/
+notebooks/
+.csv
+.env
+.venv
+options_data/
+__pycache__
